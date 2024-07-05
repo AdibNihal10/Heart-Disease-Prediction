@@ -236,6 +236,7 @@ print(cor_test)
 # Simple Linear Regression
 
 # Fit a linear regression model
+Age <- HeartDisease$age
 lm_model <- lm(Maximum.HR ~ Age, data = HeartDisease)
 
 # Plotting scatter plot
