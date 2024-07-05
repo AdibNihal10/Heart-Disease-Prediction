@@ -1,11 +1,3 @@
-#Group1
-#Adib Bin Morshed -A20EC4008
-#Nurul Wahieda Binti Muhammad Farid Sellekumar-MCS231022
-#Zainab Ali Albashah-MCS231021
-
-
-
-
 rm(list = ls())
 
 library(ggplot2)
